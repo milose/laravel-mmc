@@ -1,7 +1,7 @@
 {
-    "name": "Milose/LaravelMMC",
+    "name": "milose/laravel-mmc",
     "type": "library",
-    "description": "Laravel Artisan console command creating singular Model / Migration / Controller.",
+    "description": "Laravel Artisan console command to create singular Model / Migration / Controller files.",
     "keywords": [
         "Milose",
         "LaravelMMC"

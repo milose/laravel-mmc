@@ -18,7 +18,7 @@ composer require milose/laravel-mmc
 ```
 Next, you should add the service provider to your config/app.php file by finding providers key, and adding this to the end of the list:
 ```php
-Milose\LaraveLMMC\LaravelMMCServiceProvider::class,
+Milose\LaravelMMC\LaravelMMCServiceProvider::class,
 ```
 
 ## Usage
